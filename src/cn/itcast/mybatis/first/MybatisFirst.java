@@ -34,12 +34,8 @@ public class MybatisFirst {
 	// 根据id查询用户信息，得到一条记录结果
 	@Test
 	public void findUserByIdTest() throws IOException {
-		111111111111111111111111111111
 
-		
-22222233333qweqweqwe
-
-33333333333333
+	qwe
 
 	}
 
