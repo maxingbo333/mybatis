@@ -36,10 +36,12 @@ public class MybatisFirst {
 	public void findUserByIdTest() throws IOException {
 
 
+
 		// mybatis配置文件
 		String resource = "SqlMapConfig.xml";
 		// 得到配置文件流
 		InputStream inputStream = Resources.getResourceAsStream(resource);
+
 
 	}
 
