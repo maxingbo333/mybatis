@@ -36,7 +36,7 @@ public class MybatisFirst {
 	public void findUserByIdTest() throws IOException {
 
 
-		sdasdasd
+
 	}
 
 	// 添加用户信息
