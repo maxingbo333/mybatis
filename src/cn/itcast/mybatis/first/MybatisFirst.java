@@ -35,11 +35,11 @@ public class MybatisFirst {
 	@Test
 	public void findUserByIdTest() throws IOException {
 
+
 		// mybatis配置文件
 		String resource = "SqlMapConfig.xml";
 		// 得到配置文件流
 		InputStream inputStream = Resources.getResourceAsStream(resource);
-
 
 	}
 
@@ -53,26 +53,7 @@ public class MybatisFirst {
 
 		// 创建会话工厂，传入mybatis的配置文件信息
 		SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder()
-				.build(inputStream);
-
-		// 通过工厂得到SqlSession
-		SqlSession sqlSession = sqlSessionFactory.openSession();
-		// 插入用户对象
-		User user = new User();
-		user.setUsername("王小军");
-		user.setBirthday(new Date());
-		user.setSex("1");
-		user.setAddress("河南郑州");
-
-		sqlSession.insert("test.insertUser", user);
-
-		// 提交事务
-		sqlSession.commit();
-
-		// 获取用户信息主键
-		System.out.println(user.getId());
-		// 关闭会话
-		sqlSession.close();
+		
 
 	}
 
