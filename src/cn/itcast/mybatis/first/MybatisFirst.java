@@ -36,11 +36,7 @@ public class MybatisFirst {
 	public void findUserByIdTest() throws IOException {
 	qweqweqweqweqweqe
 	asdasd
-	asdas
-	da
-	sda
-	sda
-	sd
+	asd
 	sadsa
 	}
 
