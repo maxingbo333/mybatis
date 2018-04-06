@@ -40,8 +40,6 @@ public class MybatisFirst {
 	sda
 	sda
 	sd
-	asdasd
-	asd
 	sadsa
 
 	}

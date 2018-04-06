@@ -36,12 +36,15 @@ public class MybatisFirst {
 	public void findUserByIdTest() throws IOException {
 
 	qweqweqweqweqweqe
+<<<<<<< HEAD
 	asasdasd
 	sda
 	sda
 	sd
+=======
 	asdasd
 	asd
+>>>>>>> maxingbo02
 	sadsa
 
 	}
