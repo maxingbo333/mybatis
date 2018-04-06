@@ -37,10 +37,7 @@ public class MybatisFirst {
 	qweqweqweqweqweqe
 	asasdasd
 	sda
-	sda
-	sd
-	asdasd
-	asdqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqssssssssss
+	sasdasdasqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqssssssssss
 	sadsa
 	sadsaaaaaaaaaaaaaaaaa
 	
